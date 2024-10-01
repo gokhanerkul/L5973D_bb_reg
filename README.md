@@ -13,3 +13,5 @@ You can open L5973D_bb_reg.pdsprj with Proteus 8.10 or higher.
 <p align="left">
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/25686966/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/25686966/" height="30" width="40" /></a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokhanerkul&show_icons=true&locale=en" alt="gokhanerkul" /></p>
