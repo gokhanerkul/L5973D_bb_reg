@@ -3,7 +3,7 @@ Designed a new buck-boost regulator with L5973D IC.
 
 .pdsprj => Proteus Project Format.
 
-You can open L5973D_bb_reg.pdsprj with Proteus 8.10 or higher.
+You can open project file L5973D_bb_reg.pdsprj with Proteus 8.10 or higher.
 
 #Author : Gökhan ERKUL
 
